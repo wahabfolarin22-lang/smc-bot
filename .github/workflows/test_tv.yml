@@ -1,0 +1,22 @@
+name: TradingView data test
+on:
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: smc_bias_bot
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          pip install tvdatafeed-enhanced || pip install git+https://github.com/rongardF/tvdatafeed.git
+      - name: Run test
+        run: python test_tv.py
