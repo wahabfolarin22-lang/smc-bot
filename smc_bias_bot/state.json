@@ -1,1 +1,45 @@
-{}
+{
+ "NAS100": {
+  "last_brief": "2026-11-22",
+  "h4_dir": "Bullish",
+  "zone": "Discount",
+  "alerts": {}
+ },
+ "XAUUSD": {
+  "last_brief": "2026-11-22",
+  "h4_dir": null,
+  "zone": "Discount",
+  "alerts": {}
+ },
+ "GER40": {
+  "last_brief": "2026-11-22",
+  "h4_dir": "Bearish",
+  "zone": "Discount",
+  "alerts": {}
+ },
+ "SP500": {
+  "last_brief": "2026-11-22",
+  "h4_dir": "Bearish",
+  "zone": "Discount",
+  "alerts": {}
+ },
+ "US30": {
+  "last_brief": "2026-11-22",
+  "h4_dir": "Bearish",
+  "zone": "Discount",
+  "alerts": {}
+ },
+ "XAGUSD": {
+  "last_brief": "2026-11-22",
+  "h4_dir": "Bearish",
+  "zone": "Discount",
+  "alerts": {}
+ },
+ "USDJPY": {
+  "last_brief": "2026-11-22",
+  "h4_dir": "Bullish",
+  "zone": "Discount",
+  "alerts": {}
+ },
+ "_meta": {}
+}
