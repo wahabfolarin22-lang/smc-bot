@@ -8,7 +8,7 @@
  "XAUUSD": {
   "last_brief": "2026-11-23",
   "h4_dir": null,
-  "zone": "Equilibrium (mid-range)",
+  "zone": "Discount",
   "alerts": {}
  },
  "GER40": {
@@ -28,13 +28,15 @@
  "US30": {
   "last_brief": "2026-11-23",
   "h4_dir": "Bearish",
-  "zone": "Equilibrium (mid-range)",
-  "alerts": {}
+  "zone": "Premium",
+  "alerts": {
+   "zone:Premium": "2026-11-23T15:45:43.923698+00:00"
+  }
  },
  "XAGUSD": {
   "last_brief": "2026-11-23",
   "h4_dir": "Bearish",
-  "zone": "Equilibrium (mid-range)",
+  "zone": "Discount",
   "alerts": {}
  },
  "USDJPY": {
