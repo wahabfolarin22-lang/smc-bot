@@ -2,14 +2,18 @@
  "NAS100": {
   "last_brief": "2026-11-24",
   "h4_dir": "Bearish",
-  "zone": "Equilibrium (mid-range)",
-  "alerts": {}
+  "zone": "Premium",
+  "alerts": {
+   "zone:Premium": "2026-11-24T14:28:33.928106+00:00"
+  }
  },
  "XAUUSD": {
   "last_brief": "2026-11-24",
   "h4_dir": "Bearish",
-  "zone": "Discount",
-  "alerts": {}
+  "zone": "Premium",
+  "alerts": {
+   "zone:Premium": "2026-11-24T14:28:33.928106+00:00"
+  }
  },
  "GER40": {
   "last_brief": "2026-11-24",
@@ -20,7 +24,7 @@
  "SP500": {
   "last_brief": "2026-11-24",
   "h4_dir": "Bearish",
-  "zone": "Equilibrium (mid-range)",
+  "zone": "Premium",
   "alerts": {
    "zone:Premium": "2026-11-23T14:32:28.518552+00:00"
   }
