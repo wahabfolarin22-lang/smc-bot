@@ -3,16 +3,14 @@
   "last_brief": "2026-11-26",
   "h4_dir": "Bearish",
   "zone": "Premium",
-  "alerts": {
-   "zone:Premium": "2026-11-24T14:28:33.928106+00:00"
-  }
+  "alerts": {}
  },
  "XAUUSD": {
   "last_brief": "2026-11-26",
   "h4_dir": "Bearish",
-  "zone": "Equilibrium (mid-range)",
+  "zone": "Premium",
   "alerts": {
-   "zone:Premium": "2026-11-26T09:58:01.047880+00:00"
+   "zone:Premium": "2026-11-26T14:28:39.260642+00:00"
   }
  },
  "GER40": {
@@ -36,12 +34,14 @@
   "last_brief": "2026-11-26",
   "h4_dir": "Bullish",
   "zone": "Premium",
-  "alerts": {}
+  "alerts": {
+   "tap:supply:50441.20000:50611.20000": "2026-11-26T14:28:39.260642+00:00"
+  }
  },
  "XAGUSD": {
   "last_brief": "2026-11-26",
   "h4_dir": "Bearish",
-  "zone": "Premium",
+  "zone": "Equilibrium (mid-range)",
   "alerts": {
    "zone:Premium": "2026-11-26T09:58:01.047880+00:00"
   }
