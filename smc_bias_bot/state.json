@@ -10,7 +10,7 @@
  "XAUUSD": {
   "last_brief": "2026-11-26",
   "h4_dir": "Bearish",
-  "zone": "Premium",
+  "zone": "Equilibrium (mid-range)",
   "alerts": {
    "zone:Premium": "2026-11-26T09:58:01.047880+00:00"
   }
@@ -41,13 +41,13 @@
  "XAGUSD": {
   "last_brief": "2026-11-26",
   "h4_dir": "Bearish",
-  "zone": "Premium",
+  "zone": "Equilibrium (mid-range)",
   "alerts": {
    "zone:Premium": "2026-11-26T09:58:01.047880+00:00"
   }
  },
  "USDJPY": {
-  "last_brief": "2026-11-25",
+  "last_brief": "2026-11-26",
   "h4_dir": "Bearish",
   "zone": "Premium",
   "alerts": {
