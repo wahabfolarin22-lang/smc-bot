@@ -44,11 +44,12 @@
   "h4_dir": "Bearish",
   "zone": "Premium",
   "alerts": {
-   "zone:Premium": "2026-11-26T15:32:13.248597+00:00"
+   "zone:Premium": "2026-11-26T15:32:13.248597+00:00",
+   "sweep:BSL:44.25350": "2026-11-27T10:49:05.956147+00:00"
   }
  },
  "USDJPY": {
-  "last_brief": "2026-11-26",
+  "last_brief": "2026-11-27",
   "h4_dir": "Bearish",
   "zone": "Premium",
   "alerts": {
